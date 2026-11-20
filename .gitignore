@@ -1,0 +1,8 @@
+# Archivos sensibles de configuración y claves
+.env
+client_secrets.json
+authorized_user.json
+
+# Python cache
+__pycache__/
+*.pyc
